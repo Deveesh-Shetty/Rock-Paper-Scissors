@@ -1,6 +1,6 @@
 ﻿# Rock-Paper-Scissors
 A small Rock Paper Scissors game which you can play with the computer.
-For now, I just made the CUI version ~~will soon make one with Tkinter GUI too.
+For now, I just made the CUI version ~~will soon make one with Tkinter GUI too.~~
 
 Added the GUI version made using tkinter 
     - Click button to do your move
